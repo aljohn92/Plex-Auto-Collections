@@ -4,6 +4,7 @@ import math
 import sys
 import os
 import config_tools
+import plex_tools
 try:
     from urllib.parse import urlparse
     from lxml import html
